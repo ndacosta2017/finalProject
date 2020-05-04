@@ -9,6 +9,6 @@ Development Tools Used:
 •	GitHub
 •	HTML, CSS, JS, CLI
  
-![Overview](/Pictures/Novel1.png)
+![Overview](/Pictures/novel1.png)
 ![Overview](/Pictures/Novel2.png)
 ![Overview](/Pictures/Novel3.png)
