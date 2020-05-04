@@ -9,6 +9,15 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.nathan.workshop"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.nathan.workshop"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.nathan.workshop"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.nathan.workshop"
     }
   },
   "dependent_plugins": {}

@@ -33,20 +33,21 @@
         <meta name="msapplication-tap-highlight" content="no">
         <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
         <link rel="stylesheet" type="text/css" href="css/index.css">
-        <title>Covid-19 Tracker</title>
+        <title>Coronaviral Covid-19 Tracker</title>
     </head>
     <body>
         <div id="login-box">
+            <h1>Welcome to Coronaviral Covid-19 Tracker</h1>
             <h1>Login</h1>
-            <div class="left-box">
-                <input type="text" placeholder="Username">
-                <input type="password" placeholder="Password">
-                <button type="submit" class="login reg">Login</button><button class="login google">Log in with Google</button>
+            <div>
+                <input type="text" placeholder="Username" id="username">
+                <input type="password" placeholder="Password" id="password">
+                <button type="submit" class="login reg" id="login">Login</button>
                 <a href="signup.html" style="text-decoration: none"><button class="login signup">Sign Up</button></a>
             </div>
             
         </div>
-        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/login.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
     </body>
 </html>
