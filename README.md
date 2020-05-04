@@ -7,8 +7,9 @@ Development Tools Used:
 •	Android Studio (for emulation only)
 •	VS Code and Brackets
 •	GitHub
-•	HTML, CSS, JS, CLI
- 
+•	HTML, CSS, JS, CLI 
+![Overview](/Pictures/novel3.png)
 ![Overview](/Pictures/novel1.png)
 ![Overview](/Pictures/novel2.png)
-![Overview](/Pictures/novel3.png)
+
+
